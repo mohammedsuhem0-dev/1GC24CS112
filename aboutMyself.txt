@@ -6,4 +6,6 @@ SEC: B
 BRANCH:Computer Science 
 YEAR OF ADMISSION:2024
 COLLEGE NAME:GCE
+SSLC:Bethel International Public School
+PUC:Bethel PU College
 
