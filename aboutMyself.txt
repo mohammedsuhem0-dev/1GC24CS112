@@ -1,0 +1,9 @@
+Title : Mr
+Full Name:Suhem Mohammed
+USN: 1GC24CS112
+SEM: Third
+SEC: B
+BRANCH:Computer Science 
+YEAR OF ADMISSION:2024
+COLLEGE NAME:GCE
+
