@@ -4,6 +4,7 @@ USN: 1GC24CS112
 SEM: Third
 SEC: B
 BRANCH:Computer Science
+BRANCH:Computer Science 
 YEAR OF ADMISSION:2024
 COLLEGE NAME:GCE
 SSLC:Bethel International Public School
